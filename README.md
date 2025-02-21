@@ -9,11 +9,7 @@
 ✅ **Interactive Content** – Engaging video lectures, quizzes, and practice tests.  
 
 ### **Tech Stack** 🛠️  
-- **Frontend:** React.js / Next.js  
-- **Backend:** Node.js / Express  
-- **AI Model:** Python (TensorFlow / OpenAI API)  
-- **Database:** MongoDB / Firebase  
-- **Hosting:** Vercel / AWS  
+- **Frontend:** HTML,CSS,js 
 
 ### **Getting Started** 💻  
 1️⃣ Clone the repository:  
